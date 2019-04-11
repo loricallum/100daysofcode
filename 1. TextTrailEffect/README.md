@@ -1,4 +1,4 @@
-# Text Trail Effect
+# Text Trail Effect Credit goes to CODROPS
 
 A text trail effect for a slideshow inspired by the [Abstract is hiring Dribbble shot](https://dribbble.com/shots/5910521-Abstract-is-hiring).
 
@@ -7,10 +7,6 @@ A text trail effect for a slideshow inspired by the [Abstract is hiring Dribbble
 [Article on Codrops](https://tympanus.net/codrops/?p=38516)
 
 [Demo](http://tympanus.net/Development/TextTrailEffect/)
-
-## Credits
-
-*third party resources*
 
 ## License
 This resource can be used freely if integrated or build upon in personal or commercial projects such as websites, web apps and web templates intended for sale. It is not allowed to take the resource "as-is" and sell it, redistribute, re-publish it, or sell "pluginized" versions of it. Free plugins built using this resource should have a visible mention and link to the original work. Always consider the licenses of all included libraries, scripts and images used.
